@@ -1,6 +1,7 @@
 # Employee-Tracker
 ## Description 
 > This application allows you to query a database containing various information about your employee's! It also allows you to add new employees, departments, and role's. You can edit current employee's aswell. 
+![](./assets/employee-tracker.JPG)
 
 ## Table of Contents 
 1. [Installation](#installation) 
